@@ -1,4 +1,4 @@
-# These codes are for practice only
+
 
 
 library(rvest)
