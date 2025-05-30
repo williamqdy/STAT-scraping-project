@@ -1,3 +1,6 @@
+# These codes are for practice only
+
+
 library(rvest)
 library(tidyverse)
 library(stringr)
